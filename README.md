@@ -3,4 +3,4 @@
   
 - 🔭 I’m currently working on [HypeMC](https://hypemc.fr/). 
 
-- 📫 How to reach me: [Discord](https://dsc.bio/maxouishere), [Twitter](https://twitter.com/DamsOvni) & [Instagram](https://www.instagram.com/maksxouu/).
+- 📫 How to reach me: [Discord](https://discord.gg/hAgqdFNbKu), [Twitter](https://twitter.com/MasqueOu) & [Instagram](https://www.instagram.com/maksxouu/).
