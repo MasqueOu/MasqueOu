@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maximilian</h1>  
+<h1 align="center">Hi 👋, I'm Maximilien</h1>  
 <h3 align="center">I'm Programer and Student</h3>  
   
 - 🔭 I’m currently working on [OneMod](https://onemod.fr/). 
